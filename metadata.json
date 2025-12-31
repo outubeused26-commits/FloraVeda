@@ -1,0 +1,7 @@
+{
+  "name": "FloraVeda AI",
+  "description": "An intelligent gardening assistant that identifies plants, provides Vastu Shastra placement tips, and offers easy step-by-step care instructions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
